@@ -166,27 +166,3 @@ export default function PersonalPortfolio({
 }
 
 
-Nice — I created a single-file React + Tailwind website in the canvas titled "Single-file React Website — Personal Portfolio". Open it on the left to preview the code and live-edit.
-
-What I included:
-
-A responsive hero, about, services, selected work, and contact sections.
-
-Framer Motion for light animations.
-
-Tailwind-ready utility classes and clear placeholders (hero image, project cards, contact email).
-
-Easy props for siteTitle, tagline, heroImage, and primaryColor to quickly customize.
-
-
-Next choices — tell me any of the following and I’ll update the file right away:
-
-Site title / tagline / real logo or hero image (URL or upload).
-
-Brand color (e.g., blue-600, emerald-500) and preferred accent style.
-
-Sections to add or remove (blog, shop, pricing, testimonials, resume/CV).
-
-If you want a plain HTML/CSS version or a Next.js-ready page instead.
-
-Contact method (email, link to Calendly, or integrated form backend).
